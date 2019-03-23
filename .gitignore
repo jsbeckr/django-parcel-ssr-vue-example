@@ -1,0 +1,4 @@
+.ssr/
+node_modules/
+.vscode/
+*.sqlite3
