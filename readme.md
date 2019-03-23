@@ -5,7 +5,7 @@ I was searching for some kind of better integration between VueJS and Django. **
 
 **Django** has something similar, but the project seems to be abandoned: [django-webpack-loader](https://github.com/owais/django-webpack-loader) 😞 
 
-But there seems to be a rising star at the horizon: [django-parcel-ssr](https://github.com/malj/django-parcel-ssr). Which uses [Parcel](https://parceljs.org/) and worked quite smoothly (after getting it up and running). Due to the still early documentation I thought it might be nice to have a bit of an example of how to set it up with **VueJS**. 
+But there seems to be a rising star at the horizon: [django-parcel-ssr](https://github.com/malj/django-parcel-ssr). Which uses [Parcel](https://parceljs.org/) and worked quite smoothly (after getting it up and running). I thought it might be nice to have a bit of an example of how to set it up with **VueJS**. 
 
 # Requirements
 * [Pipenv](https://pipenv.readthedocs.io/en/latest/)
